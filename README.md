@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/billf520066/DevOpsTutorial/_apis/build/status/techwiz52.pipelines-java?branchName=master)](https://dev.azure.com/billf520066/DevOpsTutorial/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
